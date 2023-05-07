@@ -7,7 +7,7 @@ type: slide
 # Team Carnivalist App
 <!-- A Screenshot of a section of the App) -->
 ![A Screenshot of a section of the App](https://i.imgur.com/raMU5TC.png)
-
+Presentation link: https://hackmd.io/@amiro/craigslist#/
 ---
 
 ### 🤔 Problem
@@ -84,7 +84,7 @@ type: slide
 ---
 
 - [x] Figma
-	- https://tinyurl.com/2ormfppo
+    - https://tinyurl.com/2kebpeug
 - [x] GitHub
 	- https://github.com/msimbo/team-carnival-the-craigslist-rebuild
 	- https://github.com/AmirhosseinOlyaei/team-carnival-the-craigslist-rebuild
